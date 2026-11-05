@@ -84,9 +84,3 @@ This lab environment will serve as the foundation for upcoming hands-on cybersec
 **Internship:** NetworkWalks
 **Domain:** Cybersecurity
 **Project:** Week 1 – Kali Linux VM Setup
-
-- Introduction to cybersecurity lab environments.
-
-## Conclusion
-Successfully configured a Kali Linux virtual
-machine for future cybersecurity exercises.
