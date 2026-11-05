@@ -51,14 +51,17 @@ The snapshot provides a restore point that can be used to return the virtual mac
 
 ## 7. Screenshots & Evidence
 
-The following screenshots document the completed lab setup:
+### Kali Linux Desktop
+![Kali Desktop](screenshots/kali-desktop.png)
 
-| Screenshot                  | Description                                      |
-| --------------------------- | ------------------------------------------------ |
-| `kali-desktop.png`          | Successfully booted Kali Linux desktop           |
-| `network-configuration.png` | VirtualBox network configuration                 |
-| `connectivity-test.png`     | Browser-based internet connectivity verification |
-| `vm-snapshot.png`           | Created virtual machine snapshot                 |
+### Network Configuration
+![Network Configuration](screenshots/network-configuration.png)
+
+### Connectivity Verification
+![Connectivity Test](screenshots/connectivity-test.png)
+
+### Virtual Machine Snapshot
+![VM Snapshot](screenshots/vm-snapshot.png)
 
 ## 8. Key Learning Outcomes
 
